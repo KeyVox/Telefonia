@@ -1,0 +1,9 @@
+Channel: SIP/Skype/+52<TELPHONE>
+MaxRetries: 2
+Callerid: "99051000987914"
+RetryTime: 2000
+WaitTime: 30
+Archive: yes
+Context: default
+Extension: 851<IDTTS><IDCALL>
+Priority: 1
