@@ -1,0 +1,16 @@
+[Skype]
+username=<user>
+type=friend
+secret=<password>
+qualify=yes
+port=5060
+nat=no
+insecure=port,invite
+host=sip.skype.com
+fromdomain=sip.skype.com
+dtmfmode=rfc2833
+disallow=all
+context=trunkinbound
+allow=g729,ulaw,alaw
+fromuser=<user>
+canreinvite=no
